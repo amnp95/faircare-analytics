@@ -1,0 +1,7 @@
+# Add required Python packages here
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+

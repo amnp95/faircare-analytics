@@ -1,0 +1,9 @@
+name: faircare-env
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+
